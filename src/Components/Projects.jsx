@@ -29,7 +29,6 @@ const projects = [
       "Nginx",
     ],
     demo: "https://buildpro.ogcs.co.in",
-    demo: "https://buildproseller.ogcs.co.in",
 
   },
   {
@@ -38,7 +37,7 @@ const projects = [
       "Shipping & crewing portal for Crew, Crewing Agents, Vessel Owners, and Admin. Crew members can track contracts, sea service, sign-on/off details. Agents manage crew assignments. Vessel owners manage fleets and onboard crew. Admin oversees all operations including contract approvals.",
     tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Nginx"],
     github: "https://github.com/your/bridgeviewships",
-    demo: "https://bridgeviewships.ae",
+    demo: "https://bridgeviewships.ae/",
   },
   {
     name: "GrowMax",
@@ -46,7 +45,7 @@ const projects = [
       "A dynamic institutional website for motivational content, construction training, and business development programs. Features content management, training program listing, and interactive media integration for seminars and workshops.",
     tech: ["React.js", "Node.js", "Express.js", "MongoDB"],
     github: "https://github.com/your/growmax",
-    demo: "https://growmax.com",
+    demo: "https://growmax.ogcs.co.in/",
   },
   {
     name: "Ornate",
@@ -54,7 +53,7 @@ const projects = [
       "Online training and certification platform for maritime professionals. Admin can create courses, manage enrollments, and issue certificates. Secure video streaming, test submissions, and JWT-based role authentication included.",
     tech: ["React.js", "Node.js", "MongoDB", "Cloudinary", "JWT", "Stripe"],
     github: "https://github.com/your/ornate",
-    demo: "https://ornatetraining.com",
+    demo: "https://ornatemaritime.net/",
   },
 ];
 
