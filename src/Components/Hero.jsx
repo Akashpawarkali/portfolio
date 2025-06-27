@@ -116,7 +116,7 @@ const Hero = () => {
             <motion.div whileHover={{ scale: 1.1 }}>
               <Button
                 variant="outlined"
-                href="/resumeAP130425.pdf"
+                href="/Resume.pdf"
                 size="large"
                 sx={{
                   borderRadius: "50px",
