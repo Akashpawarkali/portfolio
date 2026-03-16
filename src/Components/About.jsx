@@ -96,7 +96,7 @@ const About = () => {
               fontWeight: 300,
             }}
           >
-            As a <strong>Senior Backend Developer</strong>, I specialize in scalable APIs, cloud deployments, and system architecture using the <strong>MERN stack</strong>.
+            As a <strong>Senior Software Developer</strong>, I specialize in scalable APIs, cloud deployments, and system architecture using the <strong>MERN stack</strong>.
           </Typography>
 
           <Typography

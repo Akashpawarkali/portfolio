@@ -10,7 +10,7 @@ import {
   Chip,
   Stack,
 } from "@mui/material";
-import { GitHub, Launch } from "@mui/icons-material";
+import {Launch } from "@mui/icons-material";
 import { motion } from "framer-motion";
 
 const projects = [

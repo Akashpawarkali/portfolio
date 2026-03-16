@@ -2,7 +2,6 @@
 import React from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 import CssBaseline from "@mui/material/CssBaseline";
-import Container from "@mui/material/Container";
 import Hero from "./Components/Hero";
 import About from "./Components/About";
 import Skills from "./Components/Skills";

@@ -1,6 +1,6 @@
 // components/Footer.jsx
 import React from "react";
-import { Box, Typography, IconButton, Stack, Link } from "@mui/material";
+import { Box, Typography, IconButton, Stack,} from "@mui/material";
 import { GitHub, LinkedIn } from "@mui/icons-material";
 
 const Footer = () => {

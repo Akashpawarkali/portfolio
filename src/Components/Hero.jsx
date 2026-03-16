@@ -116,7 +116,7 @@ const Hero = () => {
             <motion.div whileHover={{ scale: 1.1 }}>
               <Button
                 variant="outlined"
-                href="/Resume.pdf"
+                href="/Resume_Akash (4).pdf"
                 size="large"
                 sx={{
                   borderRadius: "50px",
@@ -154,7 +154,7 @@ const Hero = () => {
           >
             <Box
               component="img"
-              src="/IMG_20250425_165011.jpg"
+              src="/Gemini_Generated_Image_u1i9feu1i9feu1i9.png"
               alt="Akash Pawar"
               sx={{
                 width: "100%",
